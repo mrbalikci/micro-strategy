@@ -1,1 +1,1 @@
-# micro-strategy
+# Data Exploration with MicroStrategy 
