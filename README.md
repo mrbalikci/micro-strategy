@@ -1,4 +1,4 @@
-# Data Exploration with MicroStrategy BI
+# Data Exploration with MicroStrategy Business Inteligence
 
 ### Data 
 
