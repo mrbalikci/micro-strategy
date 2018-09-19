@@ -1,6 +1,6 @@
 # Data Exploration with MicroStrategy BI
 
-## Data 
+### Data 
 
 Using the `GlobalSuperstoreOrders2016.xlsx` to visualize the following
 
